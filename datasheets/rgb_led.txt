@@ -1,0 +1,6 @@
+Common Cathode RGB LED
+
+Forward Voltage: 3.0-3.4V
+Luminous Intensity: 12000-14000mcd
+
+1.5 watts
